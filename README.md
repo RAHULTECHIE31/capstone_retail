@@ -1,6 +1,7 @@
 ### capstone_retail
 
 DESCRIPTION
+
 Problem Statement
 
     It is a critical requirement for business to understand the value derived from a customer. RFM is a method used for analyzing customer value.
@@ -21,7 +22,7 @@ CustomerID 	Customer number. Nominal, a six digit integral number uniquely assig
 Country 	Country name. Nominal, the name of the country where each customer resides
 
 
-#### Project Task to performed:
+#### Project Task to be performed:
 
 Data Cleaning:
 
@@ -42,7 +43,7 @@ a. Create month cohorts and analyze active customers for each cohort.
 b. Analyze the retention rate of customers.
 
 
-#### Project Task to performed:
+#### Project Task to be performed:
 
 Data Modeling :
 
@@ -64,7 +65,7 @@ Note: Rate “frequency" and “monetary" higher, because the company wants the 
 
 
 
-#### Project Task to performed:
+#### Project Task to be performed:
 
 Data Modeling :
 
@@ -77,7 +78,7 @@ b. Decide the optimum number of clusters to be formed.
 c. Analyze these clusters and comment on the results.
 
 
-#### Project Task to performed:
+#### Project Task to be performed:
 
 Data Reporting:
 
